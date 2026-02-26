@@ -9,7 +9,7 @@ int main(){
     cin >> b;
 
     cout << "Adding both the no will give: "<< a+b <<endl;
-    cout << "Differnece of both the no is: "<< a-b <<endl;
+    cout << "Differnecce of both the no is: "<< a-b <<endl;
     cout << "Multiplication both the no will give: "<< a*b <<endl;
     cout << "Dividing both the no will give: "<< a/b <<endl;
     cout << "Modulus both the no will give: "<< a%b <<endl;
